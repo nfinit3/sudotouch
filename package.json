@@ -1,0 +1,50 @@
+{
+    "name": "sudotouch",
+    "version": "1.0.0",
+    "description": "The sudotouch package is a utility for enabling TouchID on macOS terminals. This package provides a convenient and efficient way to use biometric authentication for sudo commands, improving security and productivity for macOS users.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nfinit3/sudotouch.git"
+    },
+    "keywords": [
+        "Mac",
+        "Terminal",
+        "TouchID",
+        "Biometric",
+        "authentication",
+        "Security",
+        "Utility",
+        "Authentication",
+        "Login",
+        "macOS",
+        "Terminal",
+        "commands",
+        "Fingerprint",
+        "authentication",
+        "Convenience",
+        "Efficiency",
+        "Time-saving",
+        "Productivity",
+        "Mac",
+        "security",
+        "sudo"
+    ],
+    "bin": {
+        "sudotouch": "./index.js"
+    },
+    "os": [
+        "darwin"
+    ],
+    "author": "Vikram Mudaliar",
+    "license": "MIT",
+    "devDependencies": {
+        "prettier-formatter": "^1.0.3"
+    },
+    "bugs": {
+        "url": "https://github.com/nfinit3/sudotouch/issues"
+    },
+    "reveal": true,
+    "prettier": "prettier-formatter",
+    "homepage": "https://github.com/nfinit3/sudotouch#readme"
+}
