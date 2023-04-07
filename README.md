@@ -1,3 +1,11 @@
+[![passworth cli](https://github.com/nfinit3/sudotouch/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/nfinit3/-sudotouch/actions/workflows/npm-publish.yml)
+![NPM](https://img.shields.io/npm/l/sudotouch)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/sudotouch)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/nfinit3/sudotouch)
+![GitHub repo size](https://img.shields.io/github/repo-size/nfinit3/sudotouch)
+![npm](https://img.shields.io/npm/dw/sudotouch)
+
+
 # SudoTouch
 
 The sudotouch package is a command line utility for enabling TouchID on macOS terminals. This package provides a convenient and efficient way to use biometric authentication for sudo commands, improving security and productivity for macOS users.
